@@ -1,0 +1,18 @@
+th, td {
+  padding: 18px;
+  text-align: center;
+  border-bottom: 2px solid #dddd;
+}
+
+tr:hover {
+  background-color: #dddd;
+}
+
+.row-color {
+  background-color: #dddd;
+}
+
+button {
+  background-color: transparent;
+  border: transparent;
+}
